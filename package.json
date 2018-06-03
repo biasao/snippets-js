@@ -1,0 +1,23 @@
+{
+  "name": "snippets-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/biasao/snippets-js.git"
+  },
+  "author": "biasao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/biasao/snippets-js/issues"
+  },
+  "homepage": "https://github.com/biasao/snippets-js#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
